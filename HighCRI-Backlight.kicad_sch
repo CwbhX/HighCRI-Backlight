@@ -4502,7 +4502,7 @@
     (uuid d2949b6c-9d11-4fc2-ba23-9fd6d309e80a)
     (property "Reference" "R1" (id 0) (at 68.58 53.34 90))
     (property "Value" "0R" (id 1) (at 68.58 55.88 90))
-    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (id 2) (at 68.58 58.42 0)
+    (property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" (id 2) (at 68.58 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 68.58 58.42 0)
@@ -5512,7 +5512,7 @@
       (reference "Q3") (unit 1) (value "AOD4130") (footprint "Package_TO_SOT_SMD:TO-252-2")
     )
     (path "/d2949b6c-9d11-4fc2-ba23-9fd6d309e80a"
-      (reference "R1") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+      (reference "R1") (unit 1) (value "0R") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
     )
     (path "/6b1b6f5c-54ce-4ce9-9d20-270dfdfda1c7"
       (reference "R2") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
